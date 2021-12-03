@@ -1,1 +1,1 @@
-# sequelize_music
+# sequelize_restaurant
